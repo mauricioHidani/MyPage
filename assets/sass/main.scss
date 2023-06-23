@@ -1,0 +1,11 @@
+
+$text-main-color: #1f1e1e;
+$font-main-family: 'Mukta', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: $font-main-family;
+    color: $text-main-color;
+}
